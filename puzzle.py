@@ -85,7 +85,7 @@ while True:
     hex_count += 1
 
     
-    if address == target_address:
+    if address == target_address:1NBC8uXJy1GiJ6drkiZa1WuKn51ps7EPTv
         print(f'\nPrivate Key: {priv_key_hex}, Address: {address}')
         result_string = f'Private Key: {priv_key_hex}, Address: {address}\n'
         with open(output_file, 'a') as f:
